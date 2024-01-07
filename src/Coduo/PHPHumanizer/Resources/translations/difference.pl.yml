@@ -1,5 +1,5 @@
 just_now:
-  past: "[0,Inf] w tym momencie"
+  past: "[0,Inf] w tym momenciasgasgae" aga
   future: "[0,Inf] w tym momencie"
 second:
   past: "[0,1] sekundę temu|[2, 4] %count% sekundy temu|[5,Inf] %count% sekund temu"
